@@ -18,3 +18,4 @@ copy the code of this repo or copy the path and clone the code with the help of 
 Then on the index.html file in the code in your local file
 
 Double click and you will see this game open in your default browser
+thanks so much borther
